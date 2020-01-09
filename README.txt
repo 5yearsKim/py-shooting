@@ -23,7 +23,11 @@ $ unzip shooting_py3.zip
 $ cd shooting
 $ python3 shoot.py
 
+/*********USAGE VIDEO***************/
 
+link below shows how to play this game directly
 
+https://www.youtube.com/watch?v=yw53FIcmiIw
 
+ENJOY YOUR SHOOTING GAME!
 
