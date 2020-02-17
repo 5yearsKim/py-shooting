@@ -29,4 +29,4 @@ ENJOY YOUR SHOOTING GAME!
 
 ### Sample Images
 
-![Alt_text](/images/shooting.png)
+![Alt_text](/images/shooting_game.png)
